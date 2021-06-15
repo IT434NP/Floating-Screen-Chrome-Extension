@@ -1,0 +1,9 @@
+{
+    "name": "com.floatingscreen",
+    "description": "Stick Window to Top",
+    "path": "AOT.exe",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://ookblalpkpionabhjfalkfoefhofggfi/"
+    ]
+}
